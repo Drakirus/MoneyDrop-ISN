@@ -3,11 +3,7 @@ var mise=0;
 var myArray = [0, 0, 0, 0, 0,];
 var mise_totale=500000;
 var parties=1;
-<<<<<<< HEAD
 executeSample();
-=======
-executeSample(); 
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 
 function plus(arg) {
 	if (mise_totale>0){
@@ -15,11 +11,7 @@ function plus(arg) {
 		myArray[arg] = mise;
 		mise_totale=mise_totale-100000;}
 	document.getElementById(arg).value=myArray[arg] + " €";
-<<<<<<< HEAD
 	document.getElementById('ttl').value=mise_totale + " €";
-=======
-	document.getElementById('ttl').value=mise_totale + " €";   
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 }
 
 function moins(arg) {
@@ -29,18 +21,13 @@ function moins(arg) {
 		myArray[arg] = mise;
 		mise_totale=mise_totale+100000;}
 	document.getElementById(arg).value=myArray[arg] + " €";
-<<<<<<< HEAD
 	document.getElementById('ttl').value=mise_totale + " €";
-=======
-	document.getElementById('ttl').value=mise_totale + " €";   
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 }
 
 function solution() {
 
 	if (mise_totale==0) {
 		/*--------*/
-<<<<<<< HEAD
 		for (var p = 1; p < 5; p++) {
 			if (bonne_reponse != p) {
 				myArray[p]=0;
@@ -50,22 +37,10 @@ function solution() {
 			else {
 				var box = 'box'+p;
 				document.getElementById(box).style.background = '#71C058';
-=======
-		for (var p = 1; p < 5; p++) { 
-			if (bonne_reponse != p) {
-				myArray[p]=0;
-				var box = 'box'+p;
-				document.getElementById(box).style.background = '#D57272'; 
-			}
-			else {
-				var box = 'box'+p;
-				document.getElementById(box).style.background = '#71C058'; 
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 			}
 
 		}
 		setTimeout(function() {
-<<<<<<< HEAD
 			for (var k = 1; k < 5; k++) {
 				var box = 'box'+k;
 				document.getElementById(box).style.background = '#FFF';
@@ -78,20 +53,6 @@ function solution() {
 		}
 		document.getElementById('ttl').value=mise_totale +' €';
 		/*--------*/
-=======
-			for (var k = 1; k < 5; k++) { 
-				var box = 'box'+k;
-				document.getElementById(box).style.background = '#FFF'; 
-			}},10000);
-
-		mise_totale=myArray[1]+myArray[2]+myArray[3]+myArray[4];
-		myArray = [0, 0, 0, 0, 0,];
-		for (var i = 1; i < 5; i++) { 
-			document.getElementById(i).value='0 €';
-		}
-		document.getElementById('ttl').value=mise_totale +' €';
-		/*--------*/		
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 		if (mise_totale==0) {
 			setTimeout(function() {
 				$(function(){
@@ -103,11 +64,6 @@ function solution() {
 					setTimeout(function() { executeSample(); },2900);
 				});
 			},200);
-<<<<<<< HEAD
-
-=======
- 
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 		}
 		if (mise_totale>0) {
 			parties=parties+1;
@@ -123,11 +79,6 @@ function solution() {
 						setTimeout(function() { executeSample(); },3000);
 					});
 
-<<<<<<< HEAD
-
-=======
-                   
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 				},200);
 			}
 			else {
@@ -142,11 +93,7 @@ function solution() {
 		setTimeout(function() {document.getElementById('ttl').style.visibility = 'visible';},200);
         setTimeout(function() {document.getElementById('ttl').style.visibility = 'hidden';},400);
 		setTimeout(function() {document.getElementById('ttl').style.visibility = 'visible';},600);
-<<<<<<< HEAD
 		setTimeout(function() {document.getElementById('ttl').style.visibility = 'hidden';},800);
-=======
-		setTimeout(function() {document.getElementById('ttl').style.visibility = 'hidden';},800);		
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 		setTimeout(function() {document.getElementById('ttl').style.visibility = 'visible';},1000);
 		setTimeout(function() {document.getElementById('ttl').style.color='Black';},1200);
 	}
