@@ -152,11 +152,7 @@ Qelles est la particularité physique de Sangoku, le heros de Dragon Ball ?
 Il luis manque un pouce aux deux mains.
 Son coeur est situé à droite.
 Il a deux pied gauche.
-<<<<<<< HEAD
 Il a une queue de singe!
-=======
-Il a une queue de singe! 
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
 Dans Game of Thrones, combien de couronnes compte le royaume ?
 Trois.
 Cinq.
@@ -171,9 +167,5 @@ Quelle âge a TinTin ?
 90 ans.
 80 ans!
 60 ans.
-<<<<<<< HEAD
 40 ans.
-
-=======
 40ans.
->>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
