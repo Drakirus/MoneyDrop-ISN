@@ -1,0 +1,363 @@
+/* Définition des polices personnalisées */
+
+@font-face
+{
+    font-family: 'BallparkWeiner';
+    src: url('polices/ballpark.eot');
+    src: url('polices/ballpark.eot?#iefix') format('embedded-opentype'),
+         url('polices/ballpark.woff') format('woff'),
+         url('polices/ballpark.ttf') format('truetype'),
+         url('polices/ballpark.svg#BallparkWeiner') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Dayrom';
+    src: url('polices/dayrom.eot');
+    src: url('polices/dayrom.eot?#iefix') format('embedded-opentype'),
+         url('polices/dayrom.woff') format('woff'),
+         url('polices/dayrom.ttf') format('truetype'),
+         url('polices/dayrom.svg#Dayrom') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Eléments principaux de la page */
+
+body {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	color: #585858;
+	background: #ecf0f1;
+}
+
+#bloc_page
+{
+    width: 1200px;
+    margin: auto;
+}
+
+
+
+#titre_principal
+{
+    display: inline-block;
+}
+
+header h1
+{
+    font-family: Dayrom, serif;
+    font-size: 2.5em;
+    font-weight: normal;
+}
+
+#logo, header h1
+{
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+header h2
+{
+    font-family: Dayrom, serif;
+    font-size: 1.1em;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+quest
+{
+    display: inline-block;
+    width: 1200px;
+	height: 100px;
+    text-align: center;
+
+}
+
+
+#box1 {
+padding-top : 20px;
+  position: relative;
+  float:left;
+  width: 280px;
+  height: 200px;
+  background-color: #fff;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.1) inset;
+  border-radius: 0%     0%     0%     0% /     1%     1%     1%     1%;
+  margin:55px 5px 1em 0;
+	text-align: center;
+	font-family: Georgia, Bold;
+	padding : 5px;
+	font-size : 30px;
+
+}
+
+#box2 {
+padding-top : 20px;
+  position: relative;
+  float:left;
+  width: 280px;
+  height: 200px;
+  background-color: #fff;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.1) inset;
+  border-radius: 0%     0%     0%     0% /     1%     1%     1%     1%;
+  margin:55px 5px 1em 0;
+	text-align: center;
+	font-family: Georgia, Bold;
+	padding : 5px;
+	font-size : 30px;
+
+}
+
+#box3 {
+padding-top : 20px;
+  position: relative;
+  float:left;
+  width: 280px;
+  height: 200px;
+  background-color: #fff;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.1) inset;
+  border-radius: 0%     0%     0%     0% /     1%     1%     1%     1%;
+  margin:55px 5px 1em 0;
+	text-align: center;
+	font-family: Georgia, Bold;
+	padding : 5px;
+	font-size : 30px;
+
+}
+
+#box4 {
+padding-top : 20px;
+  position: relative;
+  float:left;
+  width: 280px;
+  height: 200px;
+  background-color: #fff;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.1) inset;
+  border-radius: 0%     0%     0%     0% /     1%     1%     1%     1%;
+  margin:55px 5px 1em 0;
+	text-align: center;
+	font-family: Georgia, Bold;
+	padding : 5px;
+	font-size : 30px;
+
+}
+	
+#boxmise {
+  position: relative;
+  float:left;
+  width: 290px;
+  height: 60px;
+  background-color: #fff;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.1) inset;
+  border-radius: 0%     0%     0%     0% /     1%     1%     1%     1%;
+  margin:5px 5px 2em 0;
+    text-align: center;
+	font-family: Georgia, Bold;
+}
+#boxmise:before {
+    position: absolute;
+    width: 50%;
+    height: 80%;
+    border-radius: 10px / 100px;
+    z-index: -1;
+    top: 10%;
+    bottom: 10%;
+    content: "";
+    box-shadow: 0 0 15px rgba(0,0,0,0.6);
+    }
+
+
+
+.dispmise{
+width: 80px;
+font-family: Georgia, Bold;
+font-size:18px;
+text-align: center;
+border:solid 0px ; 
+background: rgba(241, 236, 236, 0);
+
+}
+
+#ttl {
+margin-top : 15px;
+width: 1200px;
+background: #ecf0f1;
+border:solid 0px ; 
+text-align:center; 
+font-family: Georgia, Bold;
+font-size:50px;
+}
+
+footer h2
+{
+    font-size: 1.1em;
+    margin-top: 12px;
+    font-weight: normal;
+}
+
+
+
+
+/* bouton plus et moins */
+
+.btn{
+	color: #fff;
+	border: none;
+	font-family: Georgia, Bold;
+	font-size:20px;
+	background: #226fbe;
+	cursor: pointer;
+	padding: 25px 80px;
+	display: inline-block;
+	margin: -5px 27px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 800;
+	outline: none;
+	position: relative;
+}
+
+/* bouton question */
+
+.quest {
+
+	border-radius: 15px;
+	font-family: Georgia, Bold;
+	font-size:20px;
+	color: #fff;
+	background: #7D7F81;
+	padding: 20px 80px;
+	display: inline-block;
+	margin: 25px 30px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: 700;
+	outline: none;
+}
+
+
+
+/*Mise Terminée*/
+.btnttl {
+	float: right;
+	border: none;
+	border-radius: 20px;
+	font-family: Georgia;
+	font-size:15px;
+	color: #fff;
+	background: #cb4e4e;
+	cursor: pointer;
+	padding: 10px 15px;
+	display: inline-block;
+	margin: -60px 15px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-weight: 800;
+	outline: none;
+	position: relative;
+	box-shadow: 0 6px #ab3c3c;
+}
+
+.btnttl:hover {
+	box-shadow: 0 4px #ab3c3c;
+	top: 2px;
+}
+
+.btnttl:active {
+	box-shadow: 0 0 #ab3c3c;
+	top: 6px;
+}   
+
+/* Button plus moins */
+.btn-2p {
+	background: #80CB4E;
+	color: #fff;
+	box-shadow: 0 6px #6DAB3C;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+}
+.btn-2m {
+	background: #cb4e4e;
+	color: #fff;
+	box-shadow: 0 6px #ab3c3c;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+}
+
+
+/* Button 2p */
+.btn-2p {
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	padding: 0;
+}
+
+.btn-2p:hover {
+	box-shadow: 0 4px #6DAB3C;
+	top: 2px;
+}
+
+.btn-2p:active {
+	box-shadow: 0 0 #6DAB3C;
+	top: 6px;
+}
+
+/* Button 2m */
+.btn-2m {
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	padding: 0;
+}
+
+.btn-2m:hover {
+	box-shadow: 0 4px #ab3c3c;
+	top: 2px;
+}
+
+.btn-2m:active {
+	box-shadow: 0 0 #ab3c3c;
+	top: 6px;
+}
+/*partie*/
+.btn-2partie {
+	position:absolute;
+	left:950px;
+	top:80px;
+	background: #4E85CB;
+	color: #fff;
+	box-shadow: 0 3px #3C64AB;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+	margin: -5px 3px;
+	color: #fff;
+	border: none;
+	font-family: Georgia, Bold;
+	font-size:18px;
+	background: #226fbe;
+	display: inline-block;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 800;
+	outline: none;
+	text-align: center;
+
+}
+.btn-2partie{
+	border-radius: 100%;
+	width: 170px;
+	height: 70px;
+	padding: 0;
+}
+
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+
+

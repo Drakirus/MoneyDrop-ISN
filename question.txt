@@ -1,0 +1,179 @@
+Qui est tintin ?
+journaliste!
+footeux.
+danseur.
+gangster.
+où se trouve l'Alaska ?
+En Inde.
+En Amérique!
+En Norvége
+Au Groenland.
+De quelle mythologie vient Zeus ?
+Grecque!
+Romaine.
+Asiatique.
+Africaine.
+En quelle année les Amériques ont elles été découverte ?
+1492, prise de Grenade!
+1789, prise de la bastille.
+-52, Alésia.
+1515, bataille de Marignan.
+Qui est l'auteur du Seigneur des Anneaux ?
+G,Martin.
+J-R-R,Tolkien!
+J-K,Rowling.
+G,Mussot.
+Qui est le plus vieux ?
+Le crocodile!
+La vache.
+Le singe.
+Le pélican.
+Sous quel autre nom est connu Peredur ?
+Ghandi, indépendantiste.
+Sauron, entité du mal.
+Perceval, chevalier!
+Un ami de Harry Potter.
+Quelle est la capitale du Mali ?
+Tombouctou.
+Damas.
+Riyad.
+Bamako!
+Quel site de vente est propriétaire du service de paiement en ligne Paypal ?
+Ebay!
+Etsy.
+Amazon.
+Google.
+Dans lequel de ces pays le télechargement est-il Légal ?
+Les Pays-Bas!
+La France.
+L'Espagne.
+La Russie.
+Entre 1983 et 1985, le monde des jeux vidéo a connu un gros krach, dû, à l'arrivée des ordinateur personnels. Qeuel jeu a permis à cette industrie d'éviter la faillite ?
+Casse Brique.
+Zelda.
+Super Mario Bros!
+Space Invaders.
+Le logo Google n'a pas changé depuis 1999. Ainsi, la couleur des lettres suivent l'ordre suivant: ?
+Bleu-rouge-jaune-bleu-vert-rouge!
+Rouge-jaune-bleu-vert-rouge-bleu.
+Jaune-bleu-vert-rouge-bleu-rouge.
+Bleu-vert-rouge-bleu-rouge-jaune.
+Laquelle de ces innovations n'est pas encore commercialisée ?
+La reconnaissance vocale.
+Le robot serviteur.
+Un stylo pour dessiner en 3D.
+Un écran souple et flexible!
+Que fabrique la marque Cray ?
+Des armes intelligentes.
+Des ordinateur surpuissants!
+Des écran 3D pour les salles de  cinéma.
+Des robots serviteur.
+A sa sortie en 1989, combien coûtait la Game Boy ?
+168 €.
+130 €.
+129 €.
+90 €!
+Lequel de ces jeux vidéo n'est pas un MMORPG ?
+Ryzom.
+Eve Online.
+Dofus.
+Counter Strike!
+Comment appelle-t-on les NOLIFE au Japon ?
+Hikikomori!
+Matirojin.
+Lynyang.
+Nolife.
+Combien existe-t-il de cartes Magic ?
+21 000.
+12 00!
+1 200.
+120.
+Laquelle de ces suites du jeux vidéo Worms n'existe pas ?
+Worms Armageddon.
+Worms : Open Warfare.
+Worms Battleship!
+Worms Revolution.
+Quel âge a Pacman ?
+15 ans.
+20 ans.
+30 ans!
+40 ans.
+Quelle console de jeux s'est le mieux vendue ?
+PS3.
+PS2.
+XBOX.
+Nintendo DS!
+Lequel de ces mangas féminins n'existe pas ?
+Love Hina.
+Video Girl Ai.
+Kawaï Love!
+Shojo.
+Quel est l'âge de Hello Kitty ?
+10 ans.
+15 ans.
+25 ans.
+35 ans!
+Quel est l'animal de compagnie le plus populaire du web ?
+Le Chien.
+Le Furet.
+Le Chat!
+Le Panda.
+Quel âge a la plus vielle gameuse du monde ?
+55 ans.
+77 ans.
+88 ans.
+99 ans!
+Quel métier exerce Lara Croft ?
+Médecin.
+Archéologue!
+Professeur.
+Bucheronne.
+Stephen Hawking est une superstar de la science dont les découvertes furent pourtant mal accueillies par la communauté scentifique. Elles concernaient: ?
+La vie extraterrestre.
+Les trous noirs!
+La vitesse de la lumière.
+La matiere noir.
+Bill Gates a la réputation d'être un philanthrope quel pourcentage de sa fortune à t-il légué a sa fondation ?
+50%.
+70%.
+80%.
+95%!
+Dans le film TRON, quelle est la société travaillent Kevin Flynn et Ed Dillinger ?
+COMEN.
+ENCOM!
+MOCHE.
+DOSME.
+Dans quelle série TV américaine découvre-t-on la Dharma Initiative ?
+Fringe.
+X-Files.
+Lost!
+Friends.
+Qelles est la particularité physique de Sangoku, le heros de Dragon Ball ?
+Il luis manque un pouce aux deux mains.
+Son coeur est situé à droite.
+Il a deux pied gauche.
+<<<<<<< HEAD
+Il a une queue de singe!
+=======
+Il a une queue de singe! 
+>>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65
+Dans Game of Thrones, combien de couronnes compte le royaume ?
+Trois.
+Cinq.
+Sept!
+Neuf.
+D'ou viennest les super-pouvoirs de The Flame, le héros du comics du même nom, paru en 1939 ?
+Il a été élevé par des moines Bouddhistes!
+Il a été élevé par des Ninjas.
+Il a été élevé par des loups.
+Il a survécu a un incendie.
+Quelle âge a TinTin ?
+90 ans.
+80 ans!
+60 ans.
+<<<<<<< HEAD
+40 ans.
+
+=======
+40ans.
+>>>>>>> a80778e68ba72fa7b00a51a9ee9d88b2cc6c0e65

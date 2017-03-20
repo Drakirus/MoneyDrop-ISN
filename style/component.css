@@ -1,0 +1,159 @@
+
+/* bouton plus et moins */
+
+.btn{
+	color: #fff;
+	border: none;
+	font-family: Georgia, Bold;
+	font-size:20px;
+	background: #226fbe;
+	cursor: pointer;
+	padding: 25px 80px;
+	display: inline-block;
+	margin: -5px 27px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 800;
+	outline: none;
+	position: relative;
+}
+
+/* bouton question */
+
+.quest {
+
+	border-radius: 15px;
+	font-family: Georgia, Bold;
+	font-size:20px;
+	color: #fff;
+	background: #7D7F81;
+	padding: 20px 80px;
+	display: inline-block;
+	margin: 25px 30px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: 700;
+	outline: none;
+}
+
+
+
+/*Mise Terminée*/
+.btnttl {
+	float: right;
+	border: none;
+	border-radius: 20px;
+	font-family: Georgia;
+	font-size:15px;
+	color: #fff;
+	background: #cb4e4e;
+	cursor: pointer;
+	padding: 10px 15px;
+	display: inline-block;
+	margin: -60px 15px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-weight: 800;
+	outline: none;
+	position: relative;
+	box-shadow: 0 6px #ab3c3c;
+}
+
+.btnttl:hover {
+	box-shadow: 0 4px #ab3c3c;
+	top: 2px;
+}
+
+.btnttl:active {
+	box-shadow: 0 0 #ab3c3c;
+	top: 6px;
+}   
+
+/* Button plus moins */
+.btn-2p {
+	background: #80CB4E;
+	color: #fff;
+	box-shadow: 0 6px #6DAB3C;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+}
+.btn-2m {
+	background: #cb4e4e;
+	color: #fff;
+	box-shadow: 0 6px #ab3c3c;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+}
+
+
+/* Button 2p */
+.btn-2p {
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	padding: 0;
+}
+
+.btn-2p:hover {
+	box-shadow: 0 4px #6DAB3C;
+	top: 2px;
+}
+
+.btn-2p:active {
+	box-shadow: 0 0 #6DAB3C;
+	top: 6px;
+}
+
+/* Button 2m */
+.btn-2m {
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	padding: 0;
+}
+
+.btn-2m:hover {
+	box-shadow: 0 4px #ab3c3c;
+	top: 2px;
+}
+
+.btn-2m:active {
+	box-shadow: 0 0 #ab3c3c;
+	top: 6px;
+}
+/*partie*/
+.btn-2partie {
+	position:absolute;
+	left:950px;
+	top:80px;
+	background: #4E85CB;
+	color: #fff;
+	box-shadow: 0 3px #3C64AB;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+	margin: -5px 3px;
+	color: #fff;
+	border: none;
+	font-family: Georgia, Bold;
+	font-size:18px;
+	background: #226fbe;
+	display: inline-block;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 800;
+	outline: none;
+	text-align: center;
+
+}
+.btn-2partie{
+	border-radius: 100%;
+	width: 170px;
+	height: 70px;
+	padding: 0;
+}
+
+
+/*--------------------------------------------------------------------------------------------------------*/
